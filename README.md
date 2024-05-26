@@ -1,34 +1,37 @@
+# Pizza Sales Dashboard Project
+## Project Overview
+This project involves creating a comprehensive dashboard in Power BI to analyze pizza sales data. The analysis aims to provide insights into sales trends, customer preferences, and overall performance. Additionally, SQL will be used for data verification to ensure data accuracy and integrity.
 
-# Coffee Shop Excel Dashboard
+## Objectives
+-Analyze pizza sales data to uncover key insights and trends.
+-Verify data accuracy using SQL queries.
+-Develop a user-friendly, interactive Power BI dashboard.
 
-## Overview
+## Tools and Technologies
+-Data Analysis: SQL
+-Data Visualization: Power BI
+-Data Preparation: Power Query
 
-This project involves the development of a detailed Excel dashboard for a coffee shop, providing comprehensive insights into sales, customer behavior, and peak business times. The dashboard is designed to transform raw data into actionable business intelligence, enhancing strategic decision-making for the coffee shop.
+## Project Structure
+### 1. Data Verification
+-SQL Queries: Write and execute SQL queries to verify the accuracy and integrity of the pizza sales data.
+-Example queries may include checking for duplicates, validating data ranges, and ensuring referential integrity.
+-Data Cleaning: Identify and clean any discrepancies or errors found during verification.
 
-## Key Features
+### 2. Data Analysis
+-Data Import: Import the verified data into Power BI using Power Query.
+-Data Modeling: Create relationships between different tables and develop a data model in Power BI.
+-Metric Calculation: Calculate key metrics such as total sales, average order value, top-selling pizzas, and peak sales times.
 
-- **Total Revenue**: Displays the overall revenue generated.
-- **Footfall**: Shows the number of customers visiting the coffee shop.
-- **Total Orders**: Indicates the total number of orders placed.
-- **Average Order Price**: Calculates the average price per order.
-- **Average Quantity Ordered**: Displays the average number of items per order.
+### 3. Dashboard Design
+-Visualization: Design various charts, graphs, and tables to present the data insights.
+-Sales Trends: Line charts to show sales over time.
+-Top Products: Bar charts to display the top-selling pizzas.
+-Customer Insights: Pie charts or demographic visuals to understand customer preferences.
+-Regional Performance: Maps to illustrate sales performance across different regions.
+-Interactivity: Add slicers and filters to enable users to interact with the data and drill down into specific details.
+-Styling: Apply consistent styling and formatting to ensure the dashboard is visually appealing and easy to understand.
 
-## Detailed Breakdown
-
-- **Revenue by Category**: Analyzes revenue across different product categories such as coffee, tea, and packaged goods.
-- **Top 5 Products by Revenue**: Highlights the top-performing products in terms of revenue.
-- **Revenue by Product Detail**: Breaks down revenue by specific product details, such as origin and type.
-- **Order & Revenue by Size**: Shows the distribution of orders and revenue by order size (e.g., small, regular, large).
-
-## Visual Insights
-
-- **Revenue by Days and Months**: Provides a visual representation of revenue trends across different days of the week and months of the year.
-- **Footfall & Orders by Hour**: Analyzes footfall and order quantities by hour to identify peak business times.
-- **Order Percentage by Size**: Displays a pie chart showing the percentage distribution of orders by size.
-
-## Usage
-
-1. **Open the Excel file**: Download and open the provided Excel dashboard file.
-2. **Explore the Dashboard**: Navigate through various sections of the dashboard to explore different metrics and visual insights.
-3. **Analyze the Data**: Use the visualizations to analyze trends, identify top-performing products, and understand customer behavior.
-4. **Make Data-Driven Decisions**: Leverage the insights gained from the dashboard to make informed decisions for improving business operations and strategies.
+## Files and Resources
+-SQL Scripts: SQL queries used for data verification.
+-Power BI File: The Power BI file containing the dashboard and data model.
